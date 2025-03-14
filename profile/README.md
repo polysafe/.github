@@ -1,4 +1,4 @@
-PolySafe (GitHub Repo) is a collective of security white-hat hackers focused on ethical hacking, penetration testing, and security research.
+PolySafe is a collective of security white-hat hackers focused on ethical hacking, penetration testing, and security research.
 
 ### 🔥 What is it?
 
